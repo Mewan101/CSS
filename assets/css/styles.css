@@ -1,0 +1,88 @@
+/*
+*{
+    color: rebeccapurple;
+    font-size: 30px;
+}*/
+
+
+/*
+h1{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*#my_header1{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*.colect1{
+    color: deeppink;
+    font-size: 30px;
+}*/
+
+/*[class]{
+    color:blue;
+}*/
+
+/*
+[class='ssa']{
+    color: red;
+}
+*/
+
+/*h2,p,ul{
+    color: blue;
+}*/
+
+/*.ssa,#my_header1{
+    color: red;
+}*/
+
+/*
+li:first-child{
+    color: red;
+}
+li:last-child{
+    color: blue;
+}
+li:nth-child(3){
+    color: orange;
+}
+h1:hover{
+    color: blue;
+}*/
+
+/*
+p::first-letter{
+    color: red;
+    font-size: 40px;
+}
+
+
+p::selection{
+    color:aqua;
+    background-color: black;
+}
+
+li::marker{
+    color: blue;
+}
+
+p::first-line{
+    color: gold;
+}
+
+ul li{
+    list-style: lower-greek;
+}*/
+
+/*#hed h1{
+    color: white;
+    background-color: black;
+}*/
+
+header>h1{
+    color: white;
+    background-color: black;
+}
