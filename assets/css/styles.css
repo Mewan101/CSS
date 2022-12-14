@@ -82,7 +82,17 @@ ul li{
     background-color: black;
 }*/
 
+/*
 header>h1{
     color: white;
     background-color: black;
+}
+*/
+
+/*h1+p{
+    color: red;
+}*/
+
+h1~p{
+    color: red;
 }
