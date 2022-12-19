@@ -93,6 +93,36 @@ header>h1{
     color: red;
 }*/
 
-h1~p{
+/*h1 ~ p {
     color: red;
+}*/
+
+/*body>main>ol>li:nth-child(3){
+    color:red;
+}*/
+
+
+/*
+h1{
+    color: red!important;
+}
+
+.class{
+    color: black;
+}
+*/
+/*
+section{
+    font-size: 40px;
+}
+section>h1{
+    font-size: 2rem;
+}
+section>p{
+    font-size: 1rem;
+}*/
+div{
+    width: 100vw;
+    height: 100vh;
+    background: red;
 }
